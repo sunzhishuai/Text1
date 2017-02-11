@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="verify_text_content" format="string" />
+    <attr name="verify_bg_color" format="color" />
+    <attr name="verify_text_size" format="dimension" />
+    <declare-styleable name="VerifyView">
+        <attr name="verify_text_content" />
+        <attr name="verify_bg_color" />
+        <attr name="verify_text_size" />
+    </declare-styleable>
+</resources>
